@@ -10,4 +10,4 @@ The attention of the user is not needed and the order, the duration and windows 
 
 _Available for download on PC_
 
-Program written in Python 3.9 and uses the GUI toolkit. Made in 2021
+Program written in Python 3.9 and uses the PyQt GUI toolkit. Made in 2021
